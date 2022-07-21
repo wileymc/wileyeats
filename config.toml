@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://wileyeats.com"
+base_url = "https://www.wileyeats.com"
 
 # The basic information about the site
 title = "Wiley eats."
